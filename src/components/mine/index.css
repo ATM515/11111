@@ -1,0 +1,32 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing:border-box
+}
+
+
+.content{
+    width:90%;
+    margin: 0 auto;
+    padding: 0px;
+    overflow:none;
+
+}
+
+header{
+    padding: 20px 0px 0px 0px;
+    background-color: yellow;
+    box-shadow: 3px 3px 10px #888;
+}
+
+.head_image img{
+
+  width:80px;
+  width:40;
+   
+}
+
+.up{
+    height:500px;
+
+}
